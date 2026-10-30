@@ -38,7 +38,7 @@ TOP = """
   </style>
 </head>
 <body>
-  <h1>WorthIt</h1>
+  <h1>WorthIt - Spend Smarter</h1>
   {% if user %}<p>{{ user.email }} - <a href="/logout">Log out</a></p>{% endif %}
 """
 
